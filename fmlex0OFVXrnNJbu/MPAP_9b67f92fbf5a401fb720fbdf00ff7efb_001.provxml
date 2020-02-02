@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8" ?>
+                                                    <wap-provisioningdoc>
+                                                      <characteristic type="AppInstall">   
+                                                        <characteristic type="AppxPackage">
+                                                          <parm name="AppXPath" value="C:\PROGRAMS\CommonFiles\Xaps\9b67f92fbf5a401fb720fbdf00ff7efb.appxbundle" />
+                                                          <parm name="LicensePath" value="C:\PROGRAMS\CommonFiles\Xaps\9b67f92fbf5a401fb720fbdf00ff7efb_License1.xml" /><parm name="DependencyPackages" value="Microsoft.NET.Native.Framework.1.6_1.6.24903.0_x64__8wekyb3d8bbwe;Microsoft.NET.Native.Runtime.1.6_1.6.24903.0_x64__8wekyb3d8bbwe;Microsoft.VCLibs.140.00_14.0.25426.0_x64__8wekyb3d8bbwe" />
+                                                        </characteristic>
+                                                      </characteristic>
+                                                    </wap-provisioningdoc>
